@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('ruijia-wang-BS9w1QCkJys-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: 1500px 800px;
+    background-attachment: fixed;
+  }
+  .title{
+    font-family: 'Abril Fatface', cursive;
+  }
+  .card{
+    height: 100%;
+    background-image: linear-gradient(to bottom, #c9e6e1, #c1eae4, #b9ede7, #b0f1eb, #a6f4ef);
+    color: rgb(20, 19, 19);
+    width: 100%;
+    margin-top: 50px;
+    font-family: 'PT Serif', serif;
+  }
+  #btn{
+    background-color: rgb(168, 235, 235);
+  }
+  
+
